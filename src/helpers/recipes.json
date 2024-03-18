@@ -1,0 +1,54 @@
+{"ingredientes":[
+    {
+        "nombre":"Harina sin polvos",
+        "cantidad":"3 tazas"
+    },
+    {
+        "nombre":"Chocolate Amargo",
+        "cantidad":"4 cucharadas colmadas"
+    },
+    {
+        "nombre":"Sal",
+        "cantidad":"1 cuchararita"
+    },
+    {
+        "nombre":"Bicarbonato",
+        "cantidad":"2 cucharaditas"
+    },
+    {
+        "nombre":"Polvo de hornear",
+        "cantidad":"3 cucharaditas"
+    },
+    {
+        "nombre":"Aceite",
+        "cantidad":"1 taza"
+    },
+    {
+        "nombre":"Azucar",
+        "cantidad":"3 tazas"
+    },
+    {
+        "nombre":"Huevos",
+        "cantidad":"4"
+    },
+    {
+        "nombre":"Vainilla",
+        "cantidad":"2 cucharadas"
+    },
+    {
+        "nombre":"Leche",
+        "cantidad":"1 taza"
+    },
+    {
+        "nombre":"Agua hirviendo",
+        "cantidad":"1 taza"
+    }
+
+],
+"pasos":[
+    "Paso 1: Todos los ingredientes secos de unen.",
+    "Paso 2: Los ingredientes secos se unen con los líquidos con cuchara de madera. A la mezcla se le agregra 1 taza de agua hirviendo",
+    "Paso 3: Se enmantequilla un molde.",
+    "Paso 4: Se agrega la mezcla, se lleva al horno",
+    "Paso 5: Cuando la mezcla suba, se baja la llama a horno medio."
+]}
